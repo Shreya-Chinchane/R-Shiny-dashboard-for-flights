@@ -4,6 +4,10 @@ A flights dashboard is created using the R-Shiny package to filter the flights a
 
 Languages used- Python, Javascript
 
+
+Dataset used- AirPassengers (an inbuilt dataset in R)
+
+
 Screenshots-
 
 
